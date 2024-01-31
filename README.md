@@ -1,5 +1,8 @@
 ### Hi there 👋
-
+### Open for jobs
+### Always wanting to learn something new
+### Currently working with bootstrap!
+### I have 2 cats
 <!--
 **timimae/timimae** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
